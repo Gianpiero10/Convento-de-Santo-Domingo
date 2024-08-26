@@ -1,0 +1,44 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+ background-color: #6bbfff;
+}
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+.portada img{
+  height:400px;
+}
+.titulo p{
+  font-size: 50px;
+  font-family: 'Forte';
+  color: #ffffff;
+   }
+  .enlace p{
+    font-size: 30px;
+    font-family: 'Bodoni MT Black';
+  }
+.titulo2 p{
+  font-size:60px;
+  font-family: 'Bodoni MT Black';
+   color: #58e990;
+}
+.subtitulo p{
+  font-size: 30px;
+  font-family: 'Forte';
+  color: #ffffff;
+}
+.resumen p{
+  font-size: 21px;
+  font-family: 'Forte';
+  color: #ffffff;
+  margin: 50px;
+}
+.resumen img{
+  height:300px;
+}
